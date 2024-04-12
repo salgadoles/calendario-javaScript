@@ -59,4 +59,6 @@ Este código permite ao usuário selecionar uma cor e uma data para agendar um f
 
 ## Autor
 - Este projeto foi desenvolvido por Samuel Lima do Amaral.
+- 
+- Essa documentação descreve cada código e suas funcionalidades. Se precisar de mais informações ou alterações, sinta-se à vontade para entrar em contato! samuellimadoamaral.prof@gmail.com
 
